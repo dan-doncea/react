@@ -1,0 +1,15 @@
+.App {
+    text-align: center;
+    position: relative;
+    top: 50px;
+}
+.Wrapper {
+    width: 500px;
+    margin: 0 auto;
+    min-height: 500px;
+    max-height: 650px;
+    background-color: lightblue;
+}
+.Title, .Content { position: relative; }
+.Title { top: 10px; }
+.Content {top: 20px; }
